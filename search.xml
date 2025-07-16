@@ -44,7 +44,7 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Hexo + github建站感想</title>
+    <title>Hexo + github建站记录</title>
     <url>/2025/07/15/hexo-github%E5%BB%BA%E8%AE%BE%E7%BD%91%E7%AB%99/</url>
     <content><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a><strong>起因</strong></h2><p>​		今日暑假的20250715，放假2个月想搞点东西，于是在b站搜django建站时看到评论说 Hexo +github 建站免费方便，接着在b站搜索了一下，如同发现新大陆，不由得感慨github的优秀。</p>
 <p>​		于是有了这个网站…..</p>
@@ -60,11 +60,32 @@
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo g 	//编译后产生的前端html</span><br></pre></td></tr></table></figure>
 
 <p>css，images，js，html都在一应俱全</p>
-<h4 id="source文件夹"><a href="#source文件夹" class="headerlink" title="source文件夹:"></a>source文件夹:</h4><p>下属 _posts文件夹存放文章（markdown文件，使用了Typora工具编辑（需激活码））</p>
+<h4 id="source文件夹"><a href="#source文件夹" class="headerlink" title="source文件夹:"></a>source文件夹:</h4><p>下属 _posts文件夹存放文章（markdown文件，使用了Typora工具编辑）</p>
 <h4 id="themes文件夹"><a href="#themes文件夹" class="headerlink" title="themes文件夹:"></a>themes文件夹:</h4><p>下载的主题zip直接解压，然后在 hexo的主config.yml中修改下theme即可使用，十分方便,里面还有主题的 _config.yml 很重要 ，用来调整各类侧边栏，标签选项，搜索之类的。</p>
 <h4 id="config-yml："><a href="#config-yml：" class="headerlink" title="_config.yml："></a>_config.yml：</h4><p>重要文件，和主题内的_config.yml共同控制网页内容</p>
-<p>记事本的搜索蛮好用~</p>
-<h2 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续.."></a>未完待续..</h2>]]></content>
+<h2 id="编辑事项"><a href="#编辑事项" class="headerlink" title="编辑事项"></a>编辑事项</h2><p>记事本的搜索蛮好用，如果用vscode可用ctrl + f 文件内查找 和 ctrl +shift + f 在工作区查找类如menu，language这类的。</p>
+<p>可在主题的语言文件夹查看支持语言，zh-CN为简中。</p>
+<p>修改背景图片，文章页面透明度，网站运行时间之类的额外内容，需要修改主题内具体内容</p>
+<blockquote>
+<p>注意</p>
+<p>使用 hexo clean 指令会直接清除public文件夹 ！！</p>
+</blockquote>
+<h4 id="插入视频"><a href="#插入视频" class="headerlink" title="插入视频"></a>插入视频</h4><p>b站可在分享里找到插入代码，直接点击复制黏贴就可加入视频（markdown支持html）</p>
+<p>&#x2F;&#x2F;player.bilibili.com&#x2F;player.html?isOutside&#x3D;true&amp;aid&#x3D;获取的aid&amp;bvid&#x3D;获取的</p>
+<p>bvid&amp;cid&#x3D;获取的cid&amp;p&#x3D;1</p>
+<p><del>480p更有风味</del></p>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=226089885&bvid=BV1jb411Z7sp&cid=1055620023&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" ></iframe>
+
+<p>在markdown编辑器中有点怪，但是网页中是正常显示的,记得加上**&amp;autoplay&#x3D;0**停止自动播放。</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?isOutside=true&amp;aid=226089885&amp;bvid=BV1jb411Z7sp&amp;cid=1055620023&amp;p=1&amp;  autoplay=0  &quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span> &gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+
+
+<h4 id="学习链接"><a href="#学习链接" class="headerlink" title="学习链接"></a>学习链接</h4><p>b站</p>
+<p><a href="%5B8%E5%88%86%E9%92%9F%E8%AE%A9%E4%BD%A0%E5%BF%AB%E9%80%9F%E6%8E%8C%E6%8F%A1Markdown_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9_bilibili%5D(https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all.click&vd_source=97bd8bd718a48e29bd9b00dd6b7aee5b)">8分钟让你快速掌握Markdown</a></p>
+<p>知乎</p>
+<p>[Hexo+Next主题搭建个人博客+优化全过程（完整详细版）](<a href="https://zhuanlan.zhihu.com/p/618864711">Hexo+Next主题搭建个人博客+优化全过程（完整详细版） - 知乎</a>)</p>
+]]></content>
       <categories>
         <category>技术笔记</category>
       </categories>
