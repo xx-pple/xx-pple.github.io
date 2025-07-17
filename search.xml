@@ -1,47 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>20250715日记</title>
-    <url>/2025/07/15/20250715%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[<p>搞完基础的hexo-github建设网站.md后发现这网站还蛮适合写些日记啥的，于是0715梦开始的日子（</p>
+    <title>b站查询弹幕发送者</title>
+    <url>/2025/07/17/b%E7%AB%99%E6%9F%A5%E8%AF%A2%E5%BC%B9%E5%B9%95%E5%8F%91%E9%80%81%E8%80%85/</url>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>今天，好早以前发的评论又被@了，都2025年了咋还有人不知道b站举报弹幕会屏蔽同屏其他相同弹幕的哇，于是产生了好奇心，浅浅研究了一下b站的弹幕机制。</p>
 <span id="more"></span>
 
-<p>近日，日日夜夜想舞萌DX（MAIMAI），2周升到rating w1， <del>but at what price</del> ？</p>
-<h3 id="我的暑假一天"><a href="#我的暑假一天" class="headerlink" title="我的暑假一天"></a>我的暑假一天</h3><p>​	由于想要<del>抓住</del>时间，每一夜到2-3点才入睡，10点起洗漱吃饭一气呵成，然后午觉或游戏或视频，接着3-6点万达舞萌time，（已充约200软妹币，5币一次0.5一个币，小贵但是没人抢机子很舒爽~都是小孩），累死累活回家（照顾一下老妈生意)，晚上总之就是很累，就<del>昏</del>过去了。</p>
-<p>​	以后打算早起study，晚上也少玩手机吧w，最后搞个外卖兼职试试</p>
-<p>图一，目前的分</p>
-<p>图二，上w紫框纪念~</p>
-<p>图三，网络异常干坐15分钟qwq</p>
-<p><img src="/2025/07/15/20250715%E6%97%A5%E8%AE%B0/b9843e7138a032f3eb2891af5eca538c.jpg" alt="b9843e7138a032f3eb2891af5eca538c" style="zoom:25%;"><img src="/2025/07/15/20250715%E6%97%A5%E8%AE%B0/0774471d4aa51b751de9c39af8938d60.jpg" alt="0774471d4aa51b751de9c39af8938d60" style="zoom:25%;"><img src="/2025/07/15/20250715%E6%97%A5%E8%AE%B0/5899cb51399b0886609a8da7bcb37000.jpg" alt="5899cb51399b0886609a8da7bcb37000" style="zoom:25%;"></p>
-<p><del>以下纯属幻想</del></p>
-<p>​	好想有一个香香软软甜甜糯糯的理工科小萝莉走上前害羞递给我loveletter，说前辈我好喜欢你呀，我也喜欢玩我的世界，泰拉瑞亚，舞萌dx和其他游戏，我们一起玩吧！想玩mc atm10整合包但存档给window安全中心删了似乎，干干净净，幸好有备份没有全完，不过也不想丸辣，当然要是有妹子一起玩另说（<del>炫压抑了属于是</del>）</p>
+<h1 id="如何查询弹幕发送者？"><a href="#如何查询弹幕发送者？" class="headerlink" title="如何查询弹幕发送者？"></a>如何查询弹幕发送者？</h1><p>网上直接搜索可查到很多工具网站如：</p>
+<p><a href="https://tool.gqr5.cn/bili_danmu">查B站弹幕发送者 - 在线工具箱</a></p>
+<p>输入av号，bv号，链接可给出弹幕列表和进行筛选, 如图</p>
+<img src="/2025/07/17/b%E7%AB%99%E6%9F%A5%E8%AF%A2%E5%BC%B9%E5%B9%95%E5%8F%91%E9%80%81%E8%80%85/image-20250717210716191.png" alt="image-20250717210716191" style="zoom: 50%;">
+
+<p>点击mid后自动跳转到主页</p>
+<p>关于 uid 和 mid，询问deepseek后回答大概是</p>
+<ul>
+<li><strong>UID与MID是同一概念</strong>：UID面向普通用户，MID用于技术接口，二者均指代用户的唯一数字ID。</li>
+</ul>
+<h1 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h1><p>原内容是”是什么让中国孩子从羡慕到自信“，但一看弹幕全是”幽默“，属实是有点愚昧了。不去思考自己的原因，只会怪罪社会，宣泄生活中的苦闷。然后自己吃饱穿暖却不懂得感恩。。</p>
+<p>一个个查了下成分，1&#x2F;5疑似注销了，1&#x2F;5是0级小号，1&#x2F;5是没有任何痕迹的隐形人。</p>
+<p>怎么说呢，就挺感慨的</p>
 ]]></content>
       <categories>
-        <category>个人感想</category>
+        <category>技术笔记</category>
       </categories>
       <tags>
-        <tag>个人感想</tag>
+        <tag>bilibili</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2025/07/15/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
   </entry>
   <entry>
     <title>Hexo + github建站记录</title>
@@ -101,30 +85,46 @@
       </tags>
   </entry>
   <entry>
-    <title>b站查询弹幕发送者</title>
-    <url>/2025/07/17/b%E7%AB%99%E6%9F%A5%E8%AF%A2%E5%BC%B9%E5%B9%95%E5%8F%91%E9%80%81%E8%80%85/</url>
-    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>今天，好早以前发的评论又被@了，都2025年了咋还有人不知道b站举报弹幕会屏蔽同屏其他相同弹幕的哇，于是产生了好奇心，浅浅研究了一下b站的弹幕机制。</p>
+    <title>Hello World</title>
+    <url>/2025/07/15/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <span id="more"></span>
 
-<h1 id="如何查询弹幕发送者？"><a href="#如何查询弹幕发送者？" class="headerlink" title="如何查询弹幕发送者？"></a>如何查询弹幕发送者？</h1><p>网上直接搜索可查到很多工具网站如：</p>
-<p><a href="https://tool.gqr5.cn/bili_danmu">查B站弹幕发送者 - 在线工具箱</a></p>
-<p>输入av号，bv号，链接可给出弹幕列表和进行筛选, 如图</p>
-<img src="/2025/07/17/b%E7%AB%99%E6%9F%A5%E8%AF%A2%E5%BC%B9%E5%B9%95%E5%8F%91%E9%80%81%E8%80%85/image-20250717210716191.png" alt="image-20250717210716191" style="zoom: 50%;">
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
-<p>点击mid后自动跳转到主页</p>
-<p>关于 uid 和 mid，询问deepseek后回答大概是</p>
-<ul>
-<li><strong>UID与MID是同一概念</strong>：UID面向普通用户，MID用于技术接口，二者均指代用户的唯一数字ID。</li>
-</ul>
-<h1 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h1><p>原内容是”是什么让中国孩子从羡慕到自信“，但一看弹幕全是”幽默“，属实是有点愚昧了。不去思考自己的原因，只会怪罪社会，宣泄生活中的苦闷。然后自己吃饱穿暖却不懂得感恩。。</p>
-<p>一个个查了下成分，1&#x2F;5疑似注销了，1&#x2F;5是0级小号，1&#x2F;5是没有任何痕迹的隐形人。</p>
-<p>怎么说呢，就挺感慨的</p>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>20250715日记</title>
+    <url>/2025/07/15/20250715%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[<p>搞完基础的hexo-github建设网站.md后发现这网站还蛮适合写些日记啥的，于是0715梦开始的日子（</p>
+<span id="more"></span>
+
+<p>近日，日日夜夜想舞萌DX（MAIMAI），2周升到rating w1， <del>but at what price</del> ？</p>
+<h3 id="我的暑假一天"><a href="#我的暑假一天" class="headerlink" title="我的暑假一天"></a>我的暑假一天</h3><p>​	由于想要<del>抓住</del>时间，每一夜到2-3点才入睡，10点起洗漱吃饭一气呵成，然后午觉或游戏或视频，接着3-6点万达舞萌time，（已充约200软妹币，5币一次0.5一个币，小贵但是没人抢机子很舒爽~都是小孩），累死累活回家（照顾一下老妈生意)，晚上总之就是很累，就<del>昏</del>过去了。</p>
+<p>​	以后打算早起study，晚上也少玩手机吧w，最后搞个外卖兼职试试</p>
+<p>图一，目前的分</p>
+<p>图二，上w紫框纪念~</p>
+<p>图三，网络异常干坐15分钟qwq</p>
+<p><img src="/2025/07/15/20250715%E6%97%A5%E8%AE%B0/b9843e7138a032f3eb2891af5eca538c.jpg" alt="b9843e7138a032f3eb2891af5eca538c" style="zoom:25%;"><img src="/2025/07/15/20250715%E6%97%A5%E8%AE%B0/0774471d4aa51b751de9c39af8938d60.jpg" alt="0774471d4aa51b751de9c39af8938d60" style="zoom:25%;"><img src="/2025/07/15/20250715%E6%97%A5%E8%AE%B0/5899cb51399b0886609a8da7bcb37000.jpg" alt="5899cb51399b0886609a8da7bcb37000" style="zoom:25%;"></p>
+<p><del>以下纯属幻想</del></p>
+<p>​	好想有一个香香软软甜甜糯糯的理工科小萝莉走上前害羞递给我loveletter，说前辈我好喜欢你呀，我也喜欢玩我的世界，泰拉瑞亚，舞萌dx和其他游戏，我们一起玩吧！想玩mc atm10整合包但存档给window安全中心删了似乎，干干净净，幸好有备份没有全完，不过也不想丸辣，当然要是有妹子一起玩另说（<del>炫压抑了属于是</del>）</p>
 ]]></content>
       <categories>
-        <category>技术笔记</category>
+        <category>个人感想</category>
       </categories>
       <tags>
-        <tag>bilibili</tag>
+        <tag>个人感想</tag>
       </tags>
   </entry>
 </search>
