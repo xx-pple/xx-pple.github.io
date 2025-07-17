@@ -11,8 +11,7 @@
 <p>​	以后打算早起study，晚上也少玩手机吧w，最后搞个外卖兼职试试</p>
 <p>图一，目前的分</p>
 <p>图二，上w紫框纪念~</p>
-<p>图三，网掉了，15分钟禁止登录干坐，惨</p>
-<p><img src="C:\Users\fufu\Documents\Tencent Files\1271332306\nt_qq\nt_data\Pic\2025-07\Ori\0774471d4aa51b751de9c39af8938d60.jpg" alt="0774471d4aa51b751de9c39af8938d60" style="zoom:25%;" /><img src="C:\Users\fufu\Documents\Tencent Files\1271332306\nt_qq\nt_data\Pic\2025-07\Ori\5899cb51399b0886609a8da7bcb37000.jpg" alt="5899cb51399b0886609a8da7bcb37000" style="zoom:25%;" /><img src="C:\Users\fufu\Documents\Tencent Files\1271332306\nt_qq\nt_data\Pic\2025-07\Ori\b9843e7138a032f3eb2891af5eca538c.jpg" alt="b9843e7138a032f3eb2891af5eca538c" style="zoom:25%;" /></p>
+<p><img src="/.io//PROJECTs\HEXO_blog\myblog\source\_posts\20250715日记\0774471d4aa51b751de9c39af8938d60.jpg" style="zoom:25%;"><img src="/.io//PROJECTs\HEXO_blog\myblog\source\_posts\20250715日记\5899cb51399b0886609a8da7bcb37000.jpg" style="zoom:25%;"></p>
 <p><del>以下纯属幻想</del></p>
 <p>​	好想有一个香香软软甜甜糯糯的理工科小萝莉走上前害羞递给我loveletter，说前辈我好喜欢你呀，我也喜欢玩我的世界，泰拉瑞亚，舞萌dx和其他游戏，我们一起玩吧！想玩mc atm10整合包但存档给window安全中心删了似乎，干干净净，幸好有备份没有全完，不过也不想丸辣，当然要是有妹子一起玩另说（<del>炫压抑了属于是</del>）</p>
 ]]></content>
@@ -74,7 +73,7 @@
 <p>&#x2F;&#x2F;player.bilibili.com&#x2F;player.html?isOutside&#x3D;true&amp;aid&#x3D;获取的aid&amp;bvid&#x3D;获取的</p>
 <p>bvid&amp;cid&#x3D;获取的cid&amp;p&#x3D;1</p>
 <p><del>480p更有风味</del></p>
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=226089885&bvid=BV1jb411Z7sp&cid=1055620023&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" ></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=226089885&bvid=BV1jb411Z7sp&cid=1055620023&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 <p>在markdown编辑器中有点怪，但是网页中是正常显示的,记得加上**&amp;autoplay&#x3D;0**停止自动播放。</p>
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">src</span>=<span class="string">&quot;//player.bilibili.com/player.html?isOutside=true&amp;aid=226089885&amp;bvid=BV1jb411Z7sp&amp;cid=1055620023&amp;p=1&amp;  autoplay=0  &quot;</span> <span class="attr">scrolling</span>=<span class="string">&quot;no&quot;</span> <span class="attr">border</span>=<span class="string">&quot;0&quot;</span> <span class="attr">frameborder</span>=<span class="string">&quot;no&quot;</span> <span class="attr">framespacing</span>=<span class="string">&quot;0&quot;</span> <span class="attr">allowfullscreen</span>=<span class="string">&quot;true&quot;</span> &gt;</span><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span><br></pre></td></tr></table></figure>
@@ -85,12 +84,41 @@
 <p><a href="%5B8%E5%88%86%E9%92%9F%E8%AE%A9%E4%BD%A0%E5%BF%AB%E9%80%9F%E6%8E%8C%E6%8F%A1Markdown_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9_bilibili%5D(https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all.click&vd_source=97bd8bd718a48e29bd9b00dd6b7aee5b)">8分钟让你快速掌握Markdown</a></p>
 <p>知乎</p>
 <p>[Hexo+Next主题搭建个人博客+优化全过程（完整详细版）](<a href="https://zhuanlan.zhihu.com/p/618864711">Hexo+Next主题搭建个人博客+优化全过程（完整详细版） - 知乎</a>)</p>
+<p>csdn</p>
+<p><a href="https://blog.csdn.net/as480133937/article/details/100138838">Hexo-Next 主题博客个性化配置超详细，超全面(两万字)</a>)</p>
 ]]></content>
       <categories>
         <category>技术笔记</category>
       </categories>
       <tags>
-        <tag>技术笔记</tag>
+        <tag>hexo</tag>
+        <tag>github</tag>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>b站弹幕机制和uid查询</title>
+    <url>/2025/07/17/b%E7%AB%99%E5%BC%B9%E5%B9%95%E6%9C%BA%E5%88%B6%E5%92%8Cuid%E6%9F%A5%E8%AF%A2/</url>
+    <content><![CDATA[<hr>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>今天，好早以前发的评论又被@了，都2025年了咋还有人不知道b站举报弹幕会屏蔽同屏其他相同弹幕的哇，于是产生了好奇心，浅浅研究了一下b站的弹幕机制。</p>
+<h1 id="如何查询弹幕发送者？"><a href="#如何查询弹幕发送者？" class="headerlink" title="如何查询弹幕发送者？"></a>如何查询弹幕发送者？</h1><p>网上直接搜索可查到很多工具网站如：</p>
+<p><a href="https://tool.gqr5.cn/bili_danmu">查B站弹幕发送者 - 在线工具箱</a></p>
+<p>输入av号，bv号，链接可给出弹幕列表和进行筛选, 如图</p>
+<p><img src="/.io//PROJECTs\HEXO_blog\myblog\source_posts\b站弹幕机制和uid查询\image-20250717210716191.png" alt="image-20250717210716191"></p>
+<p>点击mid后自动跳转到主页</p>
+<p>关于 uid 和 mid，询问deepseek后回答大概是</p>
+<ul>
+<li><strong>UID与MID是同一概念</strong>：UID面向普通用户，MID用于技术接口，二者均指代用户的唯一数字ID。</li>
+</ul>
+<h1 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h1><p>原内容是”是什么让中国孩子从羡慕到自信“，但一看弹幕全是”幽默“，属实是有点愚昧了。不去思考自己的原因，只会怪罪社会，宣泄生活中的苦闷。然后自己吃饱穿暖却不懂得感恩。。</p>
+<p>一个个查了下成分，1&#x2F;5疑似注销了，1&#x2F;5是0级小号，1&#x2F;5是没有任何痕迹的隐形人。</p>
+<p>怎么说呢，就挺感慨的</p>
+]]></content>
+      <categories>
+        <category>技术笔记</category>
+      </categories>
+      <tags>
+        <tag>bilibili</tag>
       </tags>
   </entry>
 </search>
