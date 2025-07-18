@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>20250715日记</title>
+    <url>/2025/07/15/20250715%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[<p>搞完基础的hexo-github建设网站.md后发现这网站还蛮适合写些日记啥的，于是0715梦开始的日子（</p>
+<span id="more"></span>
+
+<p>近日，日日夜夜想舞萌DX（MAIMAI），2周升到rating w1， <del>but at what price</del> ？</p>
+<h3 id="我的暑假一天"><a href="#我的暑假一天" class="headerlink" title="我的暑假一天"></a>我的暑假一天</h3><p>​	由于想要<del>抓住</del>时间，每一夜到2-3点才入睡，10点起洗漱吃饭一气呵成，然后午觉或游戏或视频，接着3-6点万达舞萌time，（已充约200软妹币，5币一次0.5一个币，小贵但是没人抢机子很舒爽~都是小孩），累死累活回家（照顾一下老妈生意)，晚上总之就是很累，就<del>昏</del>过去了。</p>
+<p>​	以后打算早起study，晚上也少玩手机吧w，最后搞个外卖兼职试试</p>
+<p>图一，目前的分</p>
+<p>图二，上w紫框纪念~</p>
+<p>图三，网络异常干坐15分钟qwq</p>
+<p><img src="/2025/07/15/20250715%E6%97%A5%E8%AE%B0/b9843e7138a032f3eb2891af5eca538c.jpg" alt="b9843e7138a032f3eb2891af5eca538c" style="zoom:25%;"><img src="/2025/07/15/20250715%E6%97%A5%E8%AE%B0/0774471d4aa51b751de9c39af8938d60.jpg" alt="0774471d4aa51b751de9c39af8938d60" style="zoom:25%;"><img src="/2025/07/15/20250715%E6%97%A5%E8%AE%B0/5899cb51399b0886609a8da7bcb37000.jpg" alt="5899cb51399b0886609a8da7bcb37000" style="zoom:25%;"></p>
+<p><del>以下纯属幻想</del></p>
+<p>​	好想有一个香香软软甜甜糯糯的理工科小萝莉走上前害羞递给我loveletter，说前辈我好喜欢你呀，我也喜欢玩我的世界，泰拉瑞亚，舞萌dx和其他游戏，我们一起玩吧！想玩mc atm10整合包但存档给window安全中心删了似乎，干干净净，幸好有备份没有全完，不过也不想丸辣，当然要是有妹子一起玩另说（<del>炫压抑了属于是</del>）</p>
+]]></content>
+      <categories>
+        <category>个人感想</category>
+      </categories>
+      <tags>
+        <tag>个人感想</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2025/07/15/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>b站查询弹幕发送者</title>
     <url>/2025/07/17/b%E7%AB%99%E6%9F%A5%E8%AF%A2%E5%BC%B9%E5%B9%95%E5%8F%91%E9%80%81%E8%80%85/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>今天，好早以前发的评论又被@了，都2025年了咋还有人不知道b站举报弹幕会屏蔽同屏其他相同弹幕的哇，于是产生了好奇心，浅浅研究了一下b站的弹幕机制。</p>
@@ -85,46 +128,34 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2025/07/15/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+    <title>我的装机标配工具软件</title>
+    <url>/2025/07/18/%E6%88%91%E7%9A%84%E8%A3%85%E6%9C%BA%E6%A0%87%E9%85%8D%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6/</url>
+    <content><![CDATA[<p>作为计算机学生，必须把自己电脑搞的干干净净的，于是整理了一些好用无广的常用工具软件。</p>
 <span id="more"></span>
 
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>20250715日记</title>
-    <url>/2025/07/15/20250715%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[<p>搞完基础的hexo-github建设网站.md后发现这网站还蛮适合写些日记啥的，于是0715梦开始的日子（</p>
-<span id="more"></span>
-
-<p>近日，日日夜夜想舞萌DX（MAIMAI），2周升到rating w1， <del>but at what price</del> ？</p>
-<h3 id="我的暑假一天"><a href="#我的暑假一天" class="headerlink" title="我的暑假一天"></a>我的暑假一天</h3><p>​	由于想要<del>抓住</del>时间，每一夜到2-3点才入睡，10点起洗漱吃饭一气呵成，然后午觉或游戏或视频，接着3-6点万达舞萌time，（已充约200软妹币，5币一次0.5一个币，小贵但是没人抢机子很舒爽~都是小孩），累死累活回家（照顾一下老妈生意)，晚上总之就是很累，就<del>昏</del>过去了。</p>
-<p>​	以后打算早起study，晚上也少玩手机吧w，最后搞个外卖兼职试试</p>
-<p>图一，目前的分</p>
-<p>图二，上w紫框纪念~</p>
-<p>图三，网络异常干坐15分钟qwq</p>
-<p><img src="/2025/07/15/20250715%E6%97%A5%E8%AE%B0/b9843e7138a032f3eb2891af5eca538c.jpg" alt="b9843e7138a032f3eb2891af5eca538c" style="zoom:25%;"><img src="/2025/07/15/20250715%E6%97%A5%E8%AE%B0/0774471d4aa51b751de9c39af8938d60.jpg" alt="0774471d4aa51b751de9c39af8938d60" style="zoom:25%;"><img src="/2025/07/15/20250715%E6%97%A5%E8%AE%B0/5899cb51399b0886609a8da7bcb37000.jpg" alt="5899cb51399b0886609a8da7bcb37000" style="zoom:25%;"></p>
-<p><del>以下纯属幻想</del></p>
-<p>​	好想有一个香香软软甜甜糯糯的理工科小萝莉走上前害羞递给我loveletter，说前辈我好喜欢你呀，我也喜欢玩我的世界，泰拉瑞亚，舞萌dx和其他游戏，我们一起玩吧！想玩mc atm10整合包但存档给window安全中心删了似乎，干干净净，幸好有备份没有全完，不过也不想丸辣，当然要是有妹子一起玩另说（<del>炫压抑了属于是</del>）</p>
+<h1 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h1><p>一般在b站上都可搜到，当有需求时要第一时间想到在b站搜索，一般都有好心大佬发放资源</p>
+<h3 id="2345看图王（绿色无广版）"><a href="#2345看图王（绿色无广版）" class="headerlink" title="2345看图王（绿色无广版）"></a>2345看图王（绿色无广版）<img src="/2025/07/18/%E6%88%91%E7%9A%84%E8%A3%85%E6%9C%BA%E6%A0%87%E9%85%8D%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6/image-20250718143138525.png" alt="image-20250718143138525" style="zoom:50%;"></h3><p>首先得是特殊破解版的，不然2345全家桶有你好受的。。。</p>
+<p>使用方便快捷，页面干净</p>
+<p>其他看图软件评测</p>
+<p><a href="https://www.bilibili.com/video/BV1HX4y1y7Tq/?spm_id_from=333.337.search-card.all.click&vd_source=97bd8bd718a48e29bd9b00dd6b7aee5b">【专业横评】5款软件对比横评，谁才是看图软件天花板？_哔哩哔哩_bilibili</a></p>
+<h3 id="PotPlayer视频播放器"><a href="#PotPlayer视频播放器" class="headerlink" title="PotPlayer视频播放器"></a>PotPlayer视频播放器<img src="/2025/07/18/%E6%88%91%E7%9A%84%E8%A3%85%E6%9C%BA%E6%A0%87%E9%85%8D%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6/image-20250718143119170.png" alt="image-20250718143119170" style="zoom: 50%;"></h3><p>功能多，性能好，快捷键方便。</p>
+<p>注意bing搜索里都是假冒的网站，原版免费无激活码</p>
+<p><a href="https://potplayer.tv/">官网地址Global Potplayer</a></p>
+<h3 id="火绒杀毒软件"><a href="#火绒杀毒软件" class="headerlink" title="火绒杀毒软件"></a>火绒杀毒软件<img src="/2025/07/18/%E6%88%91%E7%9A%84%E8%A3%85%E6%9C%BA%E6%A0%87%E9%85%8D%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6/image-20250718143032377.png" alt="image-20250718143032377" style="zoom: 80%;"></h3><p>名字是杀毒软件，其实只有基础病毒检测能力，适合较懂电脑的玩家使用</p>
+<p>清理垃圾，弹窗屏蔽，应用商城等，功能丰富，可自定义地点多，而且干净免打扰，挂后台能防止window安全中心开启恶心人。</p>
+<p>只要不乱搞下载安装病毒软件绝对够用</p>
+<h3 id="有道词典"><a href="#有道词典" class="headerlink" title="有道词典"></a>有道词典<img src="/2025/07/18/%E6%88%91%E7%9A%84%E8%A3%85%E6%9C%BA%E6%A0%87%E9%85%8D%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6/image-20250718143227058.png" alt="image-20250718143227058" style="zoom: 50%;"></h3><p>经典翻译软件，最好用的是截图翻译，网页端一般用 <strong>沉浸式翻译插件</strong> </p>
+<p>有道词典快捷键截图翻译用来推游戏很方便。</p>
+<p><del>有道在后台似乎会一直截屏，导致直播卡顿？</del></p>
 ]]></content>
       <categories>
-        <category>个人感想</category>
+        <category>实用工具</category>
       </categories>
       <tags>
-        <tag>个人感想</tag>
+        <tag>视频</tag>
+        <tag>图片</tag>
+        <tag>杀毒软件</tag>
+        <tag>翻译</tag>
       </tags>
   </entry>
 </search>
