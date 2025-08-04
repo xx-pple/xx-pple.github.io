@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>test</title>
+      <link href="/2025/08/04/test/"/>
+      <url>/2025/08/04/test/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2025/08/04/test/1.jpg" alt="1"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>装机必备软件</title>
+      <link href="/2025/08/04/%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87%E8%BD%AF%E4%BB%B6/"/>
+      <url>/2025/08/04/%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87%E8%BD%AF%E4%BB%B6/</url>
+      
+        <content type="html"><![CDATA[<h2 id><a href="#" class="headerlink" title></a></h2><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>作为计算机学生，必须把自己电脑搞的干干净净的，于是整理了一些好用无广的常用工具软件。</p><span id="more"></span><h1 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h1><p>一般在b站上都可搜到，当有需求时要第一时间想到在b站搜索，一般都有好心大佬发放资源</p><h3 id="2345看图王（绿色无广版）"><a href="#2345看图王（绿色无广版）" class="headerlink" title="2345看图王（绿色无广版）"></a>2345看图王（绿色无广版）</h3><p>首先得是特殊破解版的，不然2345全家桶有你好受的。。。</p><p>使用方便快捷，页面干净</p><p>其他看图软件评测</p><p><a href="https://www.bilibili.com/video/BV1HX4y1y7Tq/?spm_id_from=333.337.search-card.all.click&vd_source=97bd8bd718a48e29bd9b00dd6b7aee5b">【专业横评】5款软件对比横评，谁才是看图软件天花板？_哔哩哔哩_bilibili</a></p><h3 id="PotPlayer视频播放器"><a href="#PotPlayer视频播放器" class="headerlink" title="PotPlayer视频播放器"></a>PotPlayer视频播放器</h3><p>功能多，性能好，快捷键方便。</p><p>注意bing搜索里都是假冒的网站，原版免费无激活码</p><p><a href="https://potplayer.tv/">官网地址Global Potplayer</a></p><h3 id="火绒杀毒软件"><a href="#火绒杀毒软件" class="headerlink" title="火绒杀毒软件"></a>火绒杀毒软件</h3><p>名字是杀毒软件，其实只有基础病毒检测能力，适合较懂电脑的玩家使用</p><p>清理垃圾，弹窗屏蔽，应用商城等，功能丰富，可自定义地点多，而且干净免打扰，挂后台能防止window安全中心开启恶心人。</p><p>只要不乱搞下载安装病毒软件绝对够用</p><h3 id="有道词典"><a href="#有道词典" class="headerlink" title="有道词典"></a>有道词典</h3><p>经典翻译软件，最好用的是截图翻译，网页端一般用 <strong>沉浸式翻译插件</strong></p><p>有道词典快捷键截图翻译用来推游戏很方便。</p><p><del>有道在后台似乎会一直截屏，导致直播卡顿？</del></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 推荐 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 推荐 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo + Github 建站</title>
+      <link href="/2025/08/04/Hexo-Github-%E5%BB%BA%E7%AB%99/"/>
+      <url>/2025/08/04/Hexo-Github-%E5%BB%BA%E7%AB%99/</url>
+      
+        <content type="html"><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a><strong>起因</strong></h2><p> 今日暑假的20250715，放假2个月想搞点东西，于是在b站搜django建站时看到评论说 Hexo +github 建站免费方便，接着在b站搜索了一下，如同发现新大陆，不由得感慨github的优秀。</p><p> 于是有了这个网站…..</p><ul><li><h5 id="这个原代码必须要备份！！！硬盘坏了这个站就得重建了！！！"><a href="#这个原代码必须要备份！！！硬盘坏了这个站就得重建了！！！" class="headerlink" title="这个原代码必须要备份！！！硬盘坏了这个站就得重建了！！！"></a>这个原代码必须要备份！！！硬盘坏了这个站就得重建了！！！</h5><span id="more"></span></li></ul><h2 id="架构特点"><a href="#架构特点" class="headerlink" title="架构特点"></a>架构特点</h2><p> 先是总结一下这个架构的优缺点~~~</p><h4 id="优点："><a href="#优点：" class="headerlink" title="优点："></a>优点：</h4><p> 1.免费（依托github服务器）</p><p> 2.网页构建简单跟着抄就完事了（可比大学一些实验课好多了）</p><h4 id="缺点："><a href="#缺点：" class="headerlink" title="缺点："></a>缺点：</h4><p> 1.访问较慢（也是github的锅，很难打开qwq）</p><p> 2.静态页面（不能在线编辑有点麻烦，手机似乎做不到编辑）</p><h2 id="基础结构"><a href="#基础结构" class="headerlink" title="基础结构"></a>基础结构</h2><p> 暂且用到在主文件夹下的</p><h4 id="public文件夹"><a href="#public文件夹" class="headerlink" title="public文件夹:"></a>public文件夹:</h4><p>有各种东西，总之是上传到github里的网页结构，通过</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo g //编译后产生的前端html</span><br></pre></td></tr></table></figure><p>css，images，js，html都在一应俱全</p><h4 id="source文件夹"><a href="#source文件夹" class="headerlink" title="source文件夹:"></a>source文件夹:</h4><p>下属 _posts文件夹存放文章（markdown文件，使用了Typora工具编辑）</p><h4 id="themes文件夹"><a href="#themes文件夹" class="headerlink" title="themes文件夹:"></a>themes文件夹:</h4><p>下载的主题zip直接解压，然后在 hexo的主config.yml中修改下theme即可使用，十分方便,里面还有主题的 _config.yml 很重要 ，用来调整各类侧边栏，标签选项，搜索之类的。</p><h4 id="config-yml："><a href="#config-yml：" class="headerlink" title="_config.yml："></a>_config.yml：</h4><p>重要文件，和主题内的_config.yml共同控制网页内容</p><h2 id="编辑事项"><a href="#编辑事项" class="headerlink" title="编辑事项"></a>编辑事项</h2><p>记事本的搜索蛮好用，如果用vscode可用ctrl + f 文件内查找 和 ctrl +shift + f 在工作区查找类如menu，language这类的。</p><p>可在主题的语言文件夹查看支持语言，zh-CN为简中。</p><p>修改背景图片，文章页面透明度，网站运行时间之类的额外内容，需要修改主题内具体内容</p><blockquote><p>注意</p><p>使用 hexo clean 指令会直接清除public文件夹 ！！</p></blockquote><h4 id="插入网络视频"><a href="#插入网络视频" class="headerlink" title="插入网络视频"></a>插入网络视频</h4><p>b站可在分享里找到插入代码，直接点击复制黏贴就可加入视频（markdown支持html）</p><p>&#x2F;&#x2F;player.bilibili.com&#x2F;player.html?isOutside&#x3D;true&amp;aid&#x3D;获取的aid&amp;bvid&#x3D;获取的</p><p>bvid&amp;cid&#x3D;获取的cid&amp;p&#x3D;1</p><p><del>480p更有风味</del></p><iframe src="https://player.bilibili.com/player.html?isOutside=true&amp;aid=226089885&amp;bvid=BV1jb411Z7sp&amp;cid=1055620023&amp;p=1&amp;autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="display: block; margin: 0px; max-width: 100%; height: 672.979px; left: 0px; top: 0px; width: 897.312px;"></iframe><p>在markdown编辑器中有点怪，但是网页中是正常显示的,记得加上**&amp;autoplay&#x3D;0**停止自动播放。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;iframe src=&quot;//player.bilibili.com/player.html?isOutside=true&amp;aid=226089885&amp;bvid=BV1jb411Z7sp&amp;cid=1055620023&amp;p=1&amp;  autoplay=0  &quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot; &gt;&lt;/iframe&gt;</span><br></pre></td></tr></table></figure><h4 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h4><p>比较复杂，详情见大佬解析</p><p><a href="https://zhuanlan.zhihu.com/p/265077468">hexo博客如何插入图片 - 知乎</a></p><p><a href="https://blog.csdn.net/2301_77285173/article/details/130189857">在hexo博客中插入图片的方法_hexo插入图片-CSDN博客</a></p><p><a href="https://blog.csdn.net/mjh1667002013/article/details/129063378">【Hexo-已解决】Typora图片移植到Hexo显示问题_typora hexo-CSDN博客</a></p><p>在hexo的config中，把post_asset_folder设置为true，创建文章时自动产生文件夹。</p><p>此外typora可以设置自动把复制黏贴入的图片放入同名文件夹，进一步方便了使用。</p><h4 id="学习链接"><a href="#学习链接" class="headerlink" title="学习链接"></a>学习链接</h4><p>b站</p><p><a href="https://xx-pple.github.io/2025/07/15/hexo-github%E5%BB%BA%E8%AE%BE%E7%BD%91%E7%AB%99/[8%E5%88%86%E9%92%9F%E8%AE%A9%E4%BD%A0%E5%BF%AB%E9%80%9F%E6%8E%8C%E6%8F%A1Markdown_%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9_bilibili](https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all.click&vd_source=97bd8bd718a48e29bd9b00dd6b7aee5b)">8分钟让你快速掌握Markdown</a></p><p>知乎</p><p>[Hexo+Next主题搭建个人博客+优化全过程（完整详细版）](<a href="https://zhuanlan.zhihu.com/p/618864711">Hexo+Next主题搭建个人博客+优化全过程（完整详细版） - 知乎</a>)</p><p>csdn</p><p><a href="https://blog.csdn.net/as480133937/article/details/100138838">Hexo-Next 主题博客个性化配置超详细，超全面(两万字)</a>)</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 建站 </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Github </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>B站弹幕发送者查询</title>
+      <link href="/2025/08/04/B%E7%AB%99%E5%BC%B9%E5%B9%95%E5%8F%91%E9%80%81%E8%80%85%E6%9F%A5%E8%AF%A2/"/>
+      <url>/2025/08/04/B%E7%AB%99%E5%BC%B9%E5%B9%95%E5%8F%91%E9%80%81%E8%80%85%E6%9F%A5%E8%AF%A2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>今天，好早以前发的评论又被@了，都2025年了咋还有人不知道b站举报弹幕会屏蔽同屏其他相同弹幕的哇，于是产生了好奇心，浅浅研究了一下b站的弹幕机制。</p><span id="more"></span><h1 id="如何查询弹幕发送者？"><a href="#如何查询弹幕发送者？" class="headerlink" title="如何查询弹幕发送者？"></a>如何查询弹幕发送者？</h1><p>网上直接搜索可查到很多工具网站如：</p><p><a href="https://tool.gqr5.cn/bili_danmu">查B站弹幕发送者 - 在线工具箱</a></p><p>输入av号，bv号，链接可给出弹幕列表和进行筛选, 如图</p><p><img src="https://xx-pple.github.io/2025/07/17/b%E7%AB%99%E6%9F%A5%E8%AF%A2%E5%BC%B9%E5%B9%95%E5%8F%91%E9%80%81%E8%80%85/image-20250717210716191.png" alt="image-20250717210716191"></p><p>点击mid后自动跳转到主页</p><p>关于 uid 和 mid，询问deepseek后回答大概是</p><ul><li><strong>UID与MID是同一概念</strong>：UID面向普通用户，MID用于技术接口，二者均指代用户的唯一数字ID。</li></ul><h1 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h1><p>原内容是”是什么让中国孩子从羡慕到自信“，但一看弹幕全是”幽默“，属实是有点愚昧了。不去思考自己的原因，只会怪罪社会，宣泄生活中的苦闷。然后自己吃饱穿暖却不懂得感恩。。</p><p>一个个查了下成分，1&#x2F;5疑似注销了，1&#x2F;5是0级小号，1&#x2F;5是没有任何痕迹的隐形人。</p><p>怎么说呢，就挺感慨的</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工具 </tag>
+            
+            <tag> bilibili </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2025/08/04/hello-world/"/>
+      <url>/2025/08/04/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
